@@ -5,6 +5,14 @@
 .raleway-font {
   font-family: "Raleway", sans-serif;
 }
+.jsButton:hover{
+  background-color:#1DD100 ;
+}
+.jsButton{
+  background-color:#1DD100 ;
+
+}
+
 .b-r-t{
   border-radius: 88px;
 }
